@@ -66,3 +66,5 @@ elif player == 2:
     print("\nYou lose. Sorry. Try again.")
   if npc == 1:
     print("\nCongratulations! You win! Rematch?")
+else:
+  print("\nYou typed an invalid number. You lose. Try again!")
